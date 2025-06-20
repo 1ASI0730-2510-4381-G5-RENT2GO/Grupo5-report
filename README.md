@@ -590,6 +590,91 @@ En este sprint se implementaron funcionalidades clave como la realización de in
 | FrontEnd | main | b343a7e | Uploaded Home Components | 23cc37a | 15/05/20254 |
 | FrontEnd | main | b343a7e | Uploaded Vehicules Components  | 737f3a2 | 15/05/2025 |
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+En esta entrega, el equipo TakeMyCar ha logrado completar la creación y el deployment de el FrontEnd de la Aplicación Web.
+
+Enlace del deployment del FrontEnd: [enlace])
+
+Inicio de sesión de usuario:
+
+<div align="center"> <img src="./img/frontevi1.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Registro de nuevo usuario:
+
+<div align="center"> <img src="./img/frontevi2.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Ingreso a la Galeria de Autos:
+
+<div align="center"> <img src="./img/frontevi3.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Visualización del auto que el usuario alquiló:
+
+<div align="center"> <img src="./img/frontevi4.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Cancelar el alquiler:
+
+<div align="center"> <img src="./img/frontevi5.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Añadir nuevo auto a la Galeria:
+
+<div align="center"> <img src="./img/frontevi6.png" style="margin: 10px 0;" width="70%"/> </div>
+
+
+Visualización del nuevo auto en la Galeria:
+
+<div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
+
+<div align="center"> <img src="./img/netlify.png" style="margin: 10px 0;" width="70%"/> </div>
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Durante este sprint, se ha completado el desarrollo del frontend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
+
+<div align="center"> <img src="./img/netly.png" style="margin: 10px 0;" width="70%"/> </div>
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+El equipo organizó el desarrollo del frontend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+| Alumno                         | Actividad                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chavez Uribe, Ario Joel  | Se encargó de la revisión y cumlinación del informe, cumpliendo con la mayor cantidad de requerimientos y desarrollar la primera versión del frontend |
+| Aru Acevedo, Yair Christofer  | Se encargó de la asignación de tareas, deployd de la primera versión de la aplicación y corrección del sistema de versiones github del proyecto|
+| Gonzalez Custodio, Carlos Alberto | Se encargó de la revisión de la aplicación y revisión del infrome|
+| Salhuana Lopez, Fernando Jose | Se encargó de la revisión, adición del informe y aplicando mejora continua |
+| Alvarez Ponce, Carlos Antonio | Se encargó de la revisión y culminació nde la versión final del fronted, agregando características nuevas y mejorando el apartado técnico del aplicativo  |
+
+A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+| Username (GitHub) | Nombre                       |
+|-------------------|------------------------------|
+| CarlosGC-LP       | Gonzalez Custodio, Carlos    |
+| Yair360           | Aru Acevedo, Yair Christofer |
+| feg06             | Chavez Uribe,Ario Joel       |
+| zxyfernando       | Salhuana Lopez, Fernando     |
+| bluexdev          | Alvarez Ponce, Carlos        |
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./img/gitflow2.png">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./img/commit2.png">

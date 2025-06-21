@@ -573,6 +573,15 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 </table>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
+
+| Username (GitHub) | Nombre                       |
+|-------------------|------------------------------|
+| CarlosGC-LP       | Gonzalez Custodio, Carlos    |
+| Yair360           | Aru Acevedo, Yair Christofer |
+| feg06             | Chavez Uribe,Ario Joel       |
+| zxyfernando       | Salhuana Lopez, Fernando     |
+| bluexdev          | Alvarez Ponce, Carlos        |
+
 #### 5.2.2.3.Sprint Backlog 2.
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
@@ -589,6 +598,7 @@ En este sprint se implementaron funcionalidades clave como la realización de in
 | [Rent2Go <br> FrontEnd](https://rent2go.netlify.app/) | main | b343a7e | initial commit |  | 15/05/2025 |
 | FrontEnd | main | b343a7e | Uploaded Home Components | 23cc37a | 15/05/20254 |
 | FrontEnd | main | b343a7e | Uploaded Vehicules Components  | 737f3a2 | 15/05/2025 |
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 En esta entrega, el equipo TakeMyCar ha logrado completar la creación y el deployment de el FrontEnd de la Aplicación Web.
 
@@ -657,17 +667,6 @@ El equipo organizó el desarrollo del frontend de la aplicación web en ramas pa
 | Salhuana Lopez, Fernando Jose | Se encargó de la revisión, adición del informe y aplicando mejora continua |
 | Alvarez Ponce, Carlos Antonio | Se encargó de la revisión y culminació nde la versión final del fronted, agregando características nuevas y mejorando el apartado técnico del aplicativo  |
 
-A continuación, se mostrará la tabla de colaboradores en el repositorio de GitHub, con el objetivo de identificar a cada miembro del equipo.
-
-Tabla de integrantes:
-
-| Username (GitHub) | Nombre                       |
-|-------------------|------------------------------|
-| CarlosGC-LP       | Gonzalez Custodio, Carlos    |
-| Yair360           | Aru Acevedo, Yair Christofer |
-| feg06             | Chavez Uribe,Ario Joel       |
-| zxyfernando       | Salhuana Lopez, Fernando     |
-| bluexdev          | Alvarez Ponce, Carlos        |
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
@@ -678,3 +677,57 @@ Anexo: Flujo de trabajo entre las ramas.
 Anexo: Tablas de commits en el periodo de 1 mes.
 
 <img src="./assets/c05/commit3.png">
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Sprint Planning 2.
+
+| **Campo**                          | **Detalle**                                                                 |
+|-----------------------------------|------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 3                                                                    |
+| **Sprint Planning Background**                                                                                  |
+| **Date**                          | 20/06/25                                                                    |
+| **Time**                          | 10:00                                                                       |
+| **Location**                      | Modalidad Remota por WhatsApp                                           |
+| **Prepared By**                   | Integrantes 4Logicz                                                         |
+| **Attendees (to planning meeting)** | - Chavez Uribe, Ario Joel  <br> - Alvarez Ponce, Carlos Antonio <br> - Aru Acevedo, Yair Christofer <br> - Gonzalez Custodio, Carlos Alberto <br> - Salhuana Lopez, Fernando Jose |
+| **Sprint n - 3 Review Summary**   | El sprint anterior definió el objetivo del proyecto para el desarrollo de este sprint utilizando las historias de usuario. |
+| **Sprint n - 3 Retrospective Summary** | Se ha mejorado el reporte del proyecto actualizando los puntos solicitados a mejorar y se logró a partir de ahí, implementar la primera versión del brackend y terminando el apartado del frontend de nuestro proyecto. |
+| **Sprint Goal & User Stories**    |                                                                              |
+| **Sprint 2 Velocity**             | 6                                                                            |
+| **Sum of Story Points**           | 6                                                                            |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+
+| Username (GitHub) | Nombre                       |
+|-------------------|------------------------------|
+| CarlosGC-LP       | Gonzalez Custodio, Carlos    |
+| Yair360           | Aru Acevedo, Yair Christofer |
+| feg06             | Chavez Uribe,Ario Joel       |
+| zxyfernando       | Salhuana Lopez, Fernando     |
+| bluexdev          | Alvarez Ponce, Carlos        |
+
+#### 5.2.3.3.Sprint Backlog 3.
+
+| User Story ID | Título HU                                       | Tarea ID | Título de la Tarea                   | Descripción de la Tarea                                                            | Estimación (Horas) | Asignado a        | Estado                  |
+|---------------|--------------------------------------------------|----------|--------------------------------------|-------------------------------------------------------------------------------------|---------------------|--------------------|--------------------------|
+| HU19          | Registro interno de usuario                      | T01      | Endpoint de registro                 | Crear controlador y servicio para registrar nuevo usuario                          | 3                   | Carlos Alvarez      | To-do                   |
+|               |                                                  | T02      | Validación de email duplicado        | Agregar lógica de validación si el correo ya existe en base de datos               | 2                   | Carlos Alvarez       | To-do                   |
+| HU20          | Registro interno de inicio de sesión             | T03      | Login backend                        | Implementar login con generación de token JWT                                      | 2                   | Carlos Alvarez      | In-Process              |
+| HU21          | Registro interno de para recuperar contraseña    | T04      | Solicitud de recuperación            | Endpoint para enviar link de recuperación al correo del usuario                    | 3                   | Carlos Alvarez         | To-do                   |
+| HU22          | Publicar vehículo con especificaciones           | T05      | Crear formulario de publicación      | Desarrollar formulario en frontend con validaciones                                | 3                   | Carlos Alvarez        | To-do                   |
+|               |                                                  | T06      | Guardado de datos en backend         | Endpoint para guardar datos del vehículo                                           | 2                   | Ario Chavez      | To-do                   |
+| HU23          | Ver mis vehículos publicados                     | T07      | Crear vista con tabla de vehículos   | Mostrar los vehículos del propietario con botón de editar                          | 2                   | Carlos Alvarez      | To-do                   |
+| HU24          | Ver todas las reservaciones                      | T08      | Endpoint de listado general          | Endpoint para listar todas las reservaciones                                       | 2                   | Carlos Alvarez      | To-do                   |
+| HU25          | Filtrar reservaciones por estado                 | T09      | Agregar filtros por estado           | Añadir select con filtros: Pendiente, Confirmada, Cancelada                        | 1.5                 | Carlos Alvarez      | In-Process                   |
+| HU26          | Buscar vehículos con filtros avanzados           | T10      | Crear filtros en formulario de búsqueda| Implementar filtros por modelo, marca, precio, año, etc.                          | 3                   | Yair Aru      | In-Process                    |
+| HU27          | Ver mis reservaciones por estado                 | T11      | Componente para mis reservaciones    | Mostrar reservaciones del usuario con su respectivo estado                         | 2                   | Carlos Alvarez      | In-Process                   |
+| HU28          | Ver detalle de una reservación                   | T12      | Página de detalle                    | Mostrar todos los datos de una reserva al hacer clic                               | 1.5                 | Fernando Salhuana        | In-Process                   |
+| HU29          | Cancelar reservación                             | T13      | Botón de cancelar reserva            | Permitir al usuario cancelar una reservación si está dentro del plazo              | 2                   | Carlos Gonzalez      | In-Process                   |
+| HU30          | Actualizar estado de reservación                 | T14      | Actualizar estado desde panel        | Permitir cambiar estado a “aceptada”, “rechazada” o “completada”                   | 2                   | Carlos Alvarez      | In-Process                    |
+
+
+#### 5.2.3.4.Development Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.

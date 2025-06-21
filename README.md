@@ -802,6 +802,8 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 ¿Hubo algún aspecto que encontraste particularmente desafiante o confuso?
 
+¿La interfaz te pareció intuitiva y fácil de navegar?
+
 ¿Qué parte de la aplicación te pareció más útil?
 
 ¿Recomendarías esta aplicación a otra persona?¿Por qué?

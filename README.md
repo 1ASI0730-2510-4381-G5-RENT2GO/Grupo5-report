@@ -802,6 +802,12 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 ¿Hubo algún aspecto que encontraste particularmente desafiante o confuso?
 
+¿Qué parte de la aplicación te pareció más útil?
+
+¿Recomendarías esta aplicación a otra persona?¿Por qué?
+
+¿Pudiste completar tu?
+
 #### 5.3.1. Diseño de Entrevistas.
 #### 5.3.2. Registro de Entrevistas.
 #### 5.3.3. Evaluaciones según heurísticas.

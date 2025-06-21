@@ -596,43 +596,43 @@ Enlace del deployment del FrontEnd: [enlace])
 
 Inicio de sesión de usuario:
 
-<div align="center"> <img src="./img/frontevi1.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/frontevi1.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 Registro de nuevo usuario:
 
-<div align="center"> <img src="./img/frontevi2.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/frontevi2.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 Ingreso a la Galeria de Autos:
 
-<div align="center"> <img src="./img/frontevi3.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/frontevi3.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 Visualización del auto que el usuario alquiló:
 
-<div align="center"> <img src="./img/frontevi4.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/frontevi4.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 Cancelar el alquiler:
 
-<div align="center"> <img src="./img/frontevi5.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/frontevi5.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 Añadir nuevo auto a la Galeria:
 
-<div align="center"> <img src="./img/frontevi6.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/frontevi6.png" style="margin: 10px 0;" width="70%"/> </div>
 
 
 Visualización del nuevo auto en la Galeria:
 
-<div align="center"> <img src="./img/frontevi7.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/frontevi7.png" style="margin: 10px 0;" width="70%"/> </div>
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
 En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
 
-<div align="center"> <img src="./img/netlify.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/netlify.png" style="margin: 10px 0;" width="70%"/> </div>
 
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 
@@ -643,7 +643,7 @@ Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo 
 GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
 
 
-<div align="center"> <img src="./img/netly.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/netlify2.png" style="margin: 10px 0;" width="70%"/> </div>
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
@@ -673,8 +673,8 @@ A continuación se mostrarán los gráficos de insights durante el sprint:
 
 Anexo: Flujo de trabajo entre las ramas.
 
-<img src="./img/gitflow2.png">
+<img src="./assets/c05/gitflow3.png">
 
 Anexo: Tablas de commits en el periodo de 1 mes.
 
-<img src="./img/commit2.png">
+<img src="./assets/c05/commit3.png">

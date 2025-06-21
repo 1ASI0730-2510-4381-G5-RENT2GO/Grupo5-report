@@ -595,7 +595,7 @@ En este sprint se implementaron funcionalidades clave como la realización de in
 #### 5.2.2.4.Development Evidence for Sprint Review.
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| [Rent2Go <br> FrontEnd](https://rent2go.netlify.app/) | main | b343a7e | initial commit |  | 15/05/2025 |
+| [Rent2Go <br> FrontEnd](http://rent2go-g5.netlify.app) | main | b343a7e | initial commit |  | 15/05/2025 |
 | FrontEnd | main | b343a7e | Uploaded Home Components | 23cc37a | 15/05/20254 |
 | FrontEnd | main | b343a7e | Uploaded Vehicules Components  | 737f3a2 | 15/05/2025 |
 

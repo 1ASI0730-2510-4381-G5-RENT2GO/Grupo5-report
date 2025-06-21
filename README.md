@@ -806,8 +806,6 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 ¿Recomendarías esta aplicación a otra persona?¿Por qué?
 
-¿Pudiste completar tu?
-
 #### 5.3.1. Diseño de Entrevistas.
 #### 5.3.2. Registro de Entrevistas.
 #### 5.3.3. Evaluaciones según heurísticas.

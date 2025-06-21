@@ -816,13 +816,13 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 Link de la entrevista: [Entrevista_Propietario](enlace)
 
-![Entrevista 1](./assets/c05/entrevista1A.png)
+![Entrevista 1](./assets/c05/entrevista1P.png)
 
 #### Entrevista 2:
 
 Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/EeoTxui1M1RGs5WcStwXqxYBMxHRPuzrefyXXUVFUVoSZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=92gNsD)
 
-![Entrevista 2](./assets/c05/entrevista2A.png)
+![Entrevista 2](./assets/c05/entrevista2P.png)
 
 
 #### Arrendatarios
@@ -830,13 +830,13 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 
 [Entrevista_Arrendatario](enlace)
 
-![Entrevista 1](./assets/c05/entrevista1P.png)
+![Entrevista 1](./assets/c05/entrevista1A.png)
 
 #### Entrevista 2:
 
 [Entrevista_Arrendatario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/Ed8LdGbIQZ9Eu4lyv9GR3CYBm7ULQ--Lz3_NHMF_JJ2bIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ukgz3S)
 
-![Entrevista 2](./assets/c05/entrevista2P.png)
+![Entrevista 2](./assets/c05/entrevista2A.png)
 
 ### 5.3.3. Evaluaciones según heurísticas
 

@@ -626,7 +626,7 @@ Añadir nuevo auto a la Galeria:
 
 Visualización del nuevo auto en la Galeria:
 
-<div align="center"> <img src="./img/evi9.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./img/frontevi7.png" style="margin: 10px 0;" width="70%"/> </div>
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 

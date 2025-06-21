@@ -590,7 +590,7 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 | HU11 | 	Calcular tarifas de alquiler  | TS04 | 	Desarrollo del cálculo respecto a las tarifas de alquiler | Creación del método de disponibilidad de un vehículo. | 6 | Ario | Done                                   |
 | HU13 | 	Ver historial de alquileres | TS03 | Implementación de historial de alquileres	| Implementación de historial respecto a la entrega del vehículo | 5 | Ario  | Done
 
-En este sprint se implementaron funcionalidades clave como la realización de ingresoa la aplicación, opciones básicas de interacción como búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el usuario, de modo que no le tome mucho tiempo realizar dichas operaciones.
+En este sprint se implementaron funcionalidades clave como la realización de ingreso a la aplicación, opciones básicas de interacción como búsqueda, selección y entrega del vehículo, mantenemos un enfoque de facilidad para el usuario, de modo que no le tome mucho tiempo realizar dichas operaciones.
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
@@ -725,9 +725,84 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 | HU29          | Cancelar reservación                             | T13      | Botón de cancelar reserva            | Permitir al usuario cancelar una reservación si está dentro del plazo              | 2                   | Carlos Gonzalez      | In-Process                   |
 | HU30          | Actualizar estado de reservación                 | T14      | Actualizar estado desde panel        | Permitir cambiar estado a “aceptada”, “rechazada” o “completada”                   | 2                   | Carlos Alvarez      | In-Process                    |
 
+En este sprint se implementaron funcionalidades clave para realizar las consultas con la aplicación, opciones básicas de agregar, editar, borrar, actualizar, ingresar y recuperar, mantenemos un enfoque de facilidad para el desarrollo, de modo que la integración con el frontend sea efectiva.
 
 #### 5.2.3.4.Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [Rent2Go <br> Backend](enlace) | main | b343a7e | initial commit |  | 21/06/2025 |
+| Backend | main | b343a7e | Uploaded Home Components | 23cc37a | 21/06/2025 |
+| Backend | main | b343a7e | Uploaded Vehicules Components  | 737f3a2 | 21/06/2025 |
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En esta entrega, el equipo TakeMyCar ha logrado completar la creación y las consultas con el Backend de la Aplicación Web.
+
+
+
+
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+En el alcance del sprint 3, se ha dado prioridad al desarrollo del brackend de la aplicación web.
+
+<div align="center"> <img src="./assets/c05/cloudbackend.png" style="margin: 10px 0;" width="70%"/> </div>
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Durante este sprint, se ha completado el desarrollo del backend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
+
+<div align="center"> <img src="./assets/c05/cloudservice.png" style="margin: 10px 0;" width="70%"/> </div>
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+El equipo organizó el desarrollo del backend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+| Alumno                         | Actividad                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chavez Uribe, Ario Joel  | Se encargó de la revisión y finalización del informe, cumpliendo con la mayor cantidad de requerimientos y desarrollar uno de los endpoinds del backend |
+| Aru Acevedo, Yair Christofer  | Se encargó de la asignación de tareas, deployd de la versión final del frontend de la aplicación |
+| Gonzalez Custodio, Carlos Alberto | Se encargó de la revisión de la aplicación y revisión del infrome |
+| Salhuana Lopez, Fernando Jose | Se encargó de la revisión, adición del informe y aplicando mejora continua |
+| Alvarez Ponce, Carlos Antonio | Se encargó de la revisión y el avance del backend, agregando características necesarias para apartado interno del aplicativo  |
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas.
+
+<img src="./assets/c05/gitflow3.png">
+
+Anexo: Tablas de commits en el periodo de 1 mes.
+
+<img src="./assets/c05/commit3.png">
+
+
+#### 5.3. Validation Interviews.
+
+#### Preguntas sobre la persona
+
+¿Cuál es tu nombre completo?
+
+¿Cuál es tu edad?
+
+¿En qué distrito vives actualmente?
+
+
+#### Preguntas realizadas luego de usar la aplicación
+
+¿Te resultó clara y bien definida la tarea desde el inicio?
+
+¿Hubo algún proceso que consideres podría ser optimizado o simplificado?
+
+¿Hubo algún aspecto que encontraste particularmente desafiante o confuso?
+
+#### 5.3.1. Diseño de Entrevistas.
+#### 5.3.2. Registro de Entrevistas.
+#### 5.3.3. Evaluaciones según heurísticas.
+#### 5.4. Video About-the-Product.

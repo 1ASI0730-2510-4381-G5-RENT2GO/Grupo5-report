@@ -784,6 +784,7 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 
 #### 5.3. Validation Interviews.
+#### 5.3.1. Diseño de Entrevistas.
 
 #### Preguntas sobre la persona
 
@@ -808,7 +809,70 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 
 ¿Recomendarías esta aplicación a otra persona?¿Por qué?
 
-#### 5.3.1. Diseño de Entrevistas.
-#### 5.3.2. Registro de Entrevistas.
-#### 5.3.3. Evaluaciones según heurísticas.
-#### 5.4. Video About-the-Product.
+### 5.3.2. Registro de Entrevistas
+
+#### Propietarios
+#### Entrevista 1:
+
+Link de la entrevista: [Entrevista_Propietario](enlace)
+
+![Entrevista 1](./assets/c05/entrevista1A.png)
+
+#### Entrevista 2:
+
+Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/EeoTxui1M1RGs5WcStwXqxYBMxHRPuzrefyXXUVFUVoSZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=92gNsD)
+
+![Entrevista 2](./assets/c05/entrevista2A.png)
+
+
+#### Arrendatarios
+#### Entrevista 1:
+
+[Entrevista_Arrendatario](enlace)
+
+![Entrevista 1](./assets/c05/entrevista1P.png)
+
+#### Entrevista 2:
+
+[Entrevista_Arrendatario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213468_upc_edu_pe/Ed8LdGbIQZ9Eu4lyv9GR3CYBm7ULQ--Lz3_NHMF_JJ2bIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ukgz3S)
+
+![Entrevista 2](./assets/c05/entrevista2P.png)
+
+### 5.3.3. Evaluaciones según heurísticas
+
+**Problema de Redirección Incorrecta al Utilizar Botones del Navegador**
+
+![Heurística 1](./assets/c05/h1.png)
+
+- **Severidad:** 3  
+- **Heurística Violada:** Libertad y Control del Usuario  
+- **Descripción:** Al intentar utilizar los botones "Atrás" o "Adelante" del navegador, los usuarios de Rent2Go encuentran páginas de error 404. Esto afecta la experiencia de navegación libre, generando frustración.  
+- **Recomendación:** Implementar un sistema de navegación consistente y mantener un historial de navegación claro, especialmente en el catálogo de vehículos, para evitar errores de redirección.
+
+---
+
+**Problemas con la Personalización del Historial de Alquiler**
+
+![Heurística 2](./assets/c05/h2.png)
+
+- **Severidad:** 3  
+- **Heurística Violada:** Flexibilidad y Eficiencia de Uso  
+- **Descripción:** La plataforma carece de opciones personalizables para el historial de alquileres, lo que limita la eficiencia en la gestión de información relevante para usuarios frecuentes.  
+- **Recomendación:** Incorporar opciones que permitan a los usuarios agregar notas o marcar elementos importantes en el historial de alquileres para un acceso rápido.
+
+---
+
+**Problemas de Retroalimentación Inmediata al Seleccionar Opciones**
+
+![Heurística 3](./assets/c05/h3.png)
+
+- **Severidad:** 2  
+- **Heurística Violada:** Visibilidad del Estado del Sistema  
+- **Descripción:** Los usuarios no reciben confirmaciones visuales inmediatas al realizar acciones importantes.  
+- **Recomendación:** Implementar mensajes de confirmación visuales claros y rápidos para cada acción importante.
+
+---
+
+## 5.4. Video About-the-Product
+
+![The Product](enlace)

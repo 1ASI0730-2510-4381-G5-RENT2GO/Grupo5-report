@@ -743,7 +743,7 @@ En esta entrega, el equipo TakeMyCar ha logrado completar la creación y las con
 
 En el alcance del sprint 3, se ha dado prioridad al desarrollo del brackend de la aplicación web.
 
-<div align="center"> <img src="./assets/c05/cloudbackend.png" style="margin: 10px 0;" width="70%"/> </div>
+<div align="center"> <img src="./assets/c05/cloudbackend.jpg" style="margin: 10px 0;" width="70%"/> </div>
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 

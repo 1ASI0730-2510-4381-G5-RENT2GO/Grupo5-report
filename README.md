@@ -413,3 +413,10 @@ El diagrama de contexto ofrece una visión general de alto nivel de las interacc
 El diagrama de contenedores proporciona una vista general de alto nivel de las interacciones entre las aplicaciones y las fuentes de datos involucradas en la ejecución del sistema de software Rent2Go
 
 ![structurizr-Container-001](https://github.com/user-attachments/assets/ceb16b71-0bd2-484f-bba0-2f2909a872e0)
+
+### 4.6.3. Software Architecture Component Diagram
+
+Los diagramas de componentes muestran las relaciones entre los componentes principales del sistema de software, detallando la implementación de los módulos correspondientes en el programa.
+
+![structurizr-Component-001](https://github.com/user-attachments/assets/5f9c1ba8-17f7-49fc-a2ae-f1aeb768b602)
+

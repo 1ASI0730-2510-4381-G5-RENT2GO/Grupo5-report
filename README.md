@@ -393,7 +393,7 @@
 ![image](https://github.com/user-attachments/assets/3e23d0f2-b2ac-4850-abf2-c1f7090a839c)
 ![image](https://github.com/user-attachments/assets/6aef9684-4fe6-4c6c-ae7b-a7b383f5aadc)
 
-## 4.6. Domain-Driven Software Arquitecture
+## 4.6. Domain-Driven Software Architecture
 Domain-Driven Design (DDD) propone una forma estratégica y estructurada de desarrollar software complejo, poniendo en el centro el conocimiento del dominio. Su principal objetivo es reflejar con precisión las reglas, procesos y entidades del mundo real dentro del diseño del software, mediante una colaboración constante entre desarrolladores y expertos del negocio.
 
 Este enfoque impulsa la creación de una arquitectura basada en el dominio, segmentando el sistema en subdominios lógicos y asignando responsabilidades claras a cada uno. A través de patrones como Bounded Contexts, Aggregates, Entities, Value Objects y Repositories, DDD guía la separación de preocupaciones y promueve un diseño modular, escalable y mantenible.
@@ -402,7 +402,13 @@ La arquitectura impulsada por el dominio permite que el software evolucione de m
 
 En definitiva, una arquitectura orientada al dominio no solo mejora la calidad técnica del software, sino también su valor estratégico, al ser un reflejo fiel de la lógica del negocio.
 
-### 4.6.2. Software Architecture Context Diagram
+### 4.6.1. Software Architecture Context Diagram
+
+El diagrama de contexto ofrece una visión general de alto nivel de las interacciones entre el sistema de software Rent2Go, los usuarios y, en su caso, otros sistemas externos.
+
+![structurizr-SystemContext-001](https://github.com/user-attachments/assets/d7633fc6-8c25-4cf5-9ddd-9021d38396c3)
+
+### 4.6.2. Software Architecture Container Diagram
 
 El diagrama de contenedores proporciona una vista general de alto nivel de las interacciones entre las aplicaciones y las fuentes de datos involucradas en la ejecución del sistema de software Rent2Go
 

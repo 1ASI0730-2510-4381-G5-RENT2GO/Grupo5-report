@@ -74,6 +74,12 @@
             <th>4Logicz</th>
             <th>Se actualizaron los capitulos I, III, IV y V.</th>
         </tr>
+        <tr>
+            <th>V2.0</th>
+            <th>21.06.25</th>
+            <th>4Logicz</th>
+            <th>Se actualizaron los capitulos IV y V.</th>
+        </tr>
     </thead>
     <tbody></tbody>
 </table>

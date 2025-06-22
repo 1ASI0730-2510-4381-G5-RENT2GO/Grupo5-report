@@ -670,13 +670,9 @@ El equipo organizó el desarrollo del frontend de la aplicación web en ramas pa
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
-Anexo: Flujo de trabajo entre las ramas.
+Anexo: Flujo de trabajo en github.
 
 <img src="./assets/c05/gitflow3.png">
-
-Anexo: Tablas de commits en el periodo de 1 mes.
-
-<img src="./assets/c05/commit3.png">
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1.Sprint Planning 2.
@@ -774,13 +770,9 @@ El equipo organizó el desarrollo del backend de la aplicación web en ramas par
 
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
-Anexo: Flujo de trabajo entre las ramas.
+Anexo: Flujo de trabajo en github.
 
 <img src="./assets/c05/gitflow3.png">
-
-Anexo: Tablas de commits en el periodo de 1 mes.
-
-<img src="./assets/c05/commit3.png">
 
 
 #### 5.3. Validation Interviews.

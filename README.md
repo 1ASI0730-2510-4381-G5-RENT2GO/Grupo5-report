@@ -736,9 +736,6 @@ En este sprint se implementaron funcionalidades clave para realizar las consulta
 En esta entrega, el equipo TakeMyCar ha logrado completar la creación y las consultas con el Backend de la Aplicación Web.
 
 
-
-
-
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
 En el alcance del sprint 3, se ha dado prioridad al desarrollo del brackend de la aplicación web.
@@ -774,6 +771,101 @@ Anexo: Flujo de trabajo en github.
 
 <img src="./assets/c05/gitflow3.png">
 
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1.Sprint Planning 4.
+
+| **Campo**                          | **Detalle**                                                                 |
+|-----------------------------------|------------------------------------------------------------------------------|
+| **Sprint #**                      | Sprint 4                                                                    |
+| **Sprint Planning Background**                                                                                  |
+| **Date**                          | 07/07/25                                                                    |
+| **Time**                          | 10:00                                                                       |
+| **Location**                      | Modalidad Remota por WhatsApp                                           |
+| **Prepared By**                   | Integrantes 4Logicz                                                         |
+| **Attendees (to planning meeting)** | - Chavez Uribe, Ario Joel  <br> - Alvarez Ponce, Carlos Antonio <br> - Aru Acevedo, Yair Christofer <br> - Gonzalez Custodio, Carlos Alberto <br> - Salhuana Lopez, Fernando Jose |
+| **Sprint n - 3 Review Summary**   | El sprint anterior definió el objetivo del proyecto para el desarrollo de este sprint utilizando las historias de usuario. |
+| **Sprint n - 3 Retrospective Summary** | Se ha mejorado el reporte del proyecto actualizando los puntos solicitados a mejorar y se logró a partir de ahí, implementar la primera versión del brackend y terminando el apartado del frontend de nuestro proyecto. |
+| **Sprint Goal & User Stories**    |                                                                              |
+| **Sprint 2 Velocity**             | 6                                                                            |
+| **Sum of Story Points**           | 6                                                                            |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+
+| Username (GitHub) | Nombre                       |
+|-------------------|------------------------------|
+| CarlosGC-LP       | Gonzalez Custodio, Carlos    |
+| Yair360           | Aru Acevedo, Yair Christofer |
+| feg06             | Chavez Uribe,Ario Joel       |
+| zxyfernando       | Salhuana Lopez, Fernando     |
+| bluexdev          | Alvarez Ponce, Carlos        |
+
+#### 5.2.4.3.Sprint Backlog 4.
+
+| User Story ID | Título HU                                       | Tarea ID | Título de la Tarea                   | Descripción de la Tarea                                                            | Estimación (Horas) | Asignado a        | Estado                  |
+|---------------|--------------------------------------------------|----------|--------------------------------------|-------------------------------------------------------------------------------------|---------------------|--------------------|--------------------------|
+| HU19          | Registro interno de usuario                      | T01      | Endpoint de registro                 | Crear controlador y servicio para registrar nuevo usuario                          | 3                   | Carlos Alvarez      | To-do                   |
+|               |                                                  | T02      | Validación de email duplicado        | Agregar lógica de validación si el correo ya existe en base de datos               | 2                   | Carlos Alvarez       | To-do                   |
+| HU20          | Registro interno de inicio de sesión             | T03      | Login backend                        | Implementar login con generación de token JWT                                      | 2                   | Carlos Alvarez      | In-Process              |
+| HU21          | Registro interno de para recuperar contraseña    | T04      | Solicitud de recuperación            | Endpoint para enviar link de recuperación al correo del usuario                    | 3                   | Carlos Alvarez         | To-do                   |
+| HU22          | Publicar vehículo con especificaciones           | T05      | Crear formulario de publicación      | Desarrollar formulario en frontend con validaciones                                | 3                   | Carlos Alvarez        | To-do                   |
+|               |                                                  | T06      | Guardado de datos en backend         | Endpoint para guardar datos del vehículo                                           | 2                   | Ario Chavez      | To-do                   |
+| HU23          | Ver mis vehículos publicados                     | T07      | Crear vista con tabla de vehículos   | Mostrar los vehículos del propietario con botón de editar                          | 2                   | Carlos Alvarez      | To-do                   |
+| HU24          | Ver todas las reservaciones                      | T08      | Endpoint de listado general          | Endpoint para listar todas las reservaciones                                       | 2                   | Carlos Alvarez      | To-do                   |
+| HU25          | Filtrar reservaciones por estado                 | T09      | Agregar filtros por estado           | Añadir select con filtros: Pendiente, Confirmada, Cancelada                        | 1.5                 | Carlos Alvarez      | In-Process                   |
+| HU26          | Buscar vehículos con filtros avanzados           | T10      | Crear filtros en formulario de búsqueda| Implementar filtros por modelo, marca, precio, año, etc.                          | 3                   | Yair Aru      | In-Process                    |
+| HU27          | Ver mis reservaciones por estado                 | T11      | Componente para mis reservaciones    | Mostrar reservaciones del usuario con su respectivo estado                         | 2                   | Carlos Alvarez      | In-Process                   |
+| HU28          | Ver detalle de una reservación                   | T12      | Página de detalle                    | Mostrar todos los datos de una reserva al hacer clic                               | 1.5                 | Fernando Salhuana        | In-Process                   |
+| HU29          | Cancelar reservación                             | T13      | Botón de cancelar reserva            | Permitir al usuario cancelar una reservación si está dentro del plazo              | 2                   | Carlos Gonzalez      | In-Process                   |
+| HU30          | Actualizar estado de reservación                 | T14      | Actualizar estado desde panel        | Permitir cambiar estado a “aceptada”, “rechazada” o “completada”                   | 2                   | Carlos Alvarez      | In-Process                    |
+
+En este sprint se implementaron funcionalidades finales que ayudaron a el despliegue y versión final del backend, funcionando junto al frontend.
+
+#### 5.2.4.4.Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [Rent2Go <br> Backend](enlace) | main | b343a7e | initial commit |  | 21/06/2025 |
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+En esta entrega, el equipo TakeMyCar ha logrado el despliegue del Backend de la Aplicación Web.
+
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+En el alcance del sprint 4, se ha dado prioridad al desarrollo y despliegue del brackend de la aplicación web.
+
+<div align="center"> <img src="./assets/c05/cloudbackend.jpg" style="margin: 10px 0;" width="70%"/> </div>
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Durante este sprint, se ha completado el desarrollo del backend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
+
+Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
+Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
+GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
+
+
+<div align="center"> <img src="./assets/c05/cloudservice.png" style="margin: 10px 0;" width="70%"/> </div>
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+El equipo organizó el desarrollo del backend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
+
+| Alumno                         | Actividad                                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Chavez Uribe, Ario Joel  | Se encargó de la revisión, la corrección y finalización del informe, aplicando mejora contínua |
+| Aru Acevedo, Yair Christofer  | Se encargó de la asignación de tareas, Revisión y finalización de acpectos técnicos del informe |
+| Gonzalez Custodio, Carlos Alberto | Se encargó de la revisión de la aplicación y revisión del infrome |
+| Salhuana Lopez, Fernando Jose | Se encargó de la revisión, adición del informe y aplicando mejora contínua |
+| Alvarez Ponce, Carlos Antonio | Se encargó de la revisión y el avance del backend, terminando las características necesarias para el funcionamiento de la aplicación |
+
+A continuación se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo en github.
+
+<img src="./assets/c05/gitflow3.png">
 
 #### 5.3. Validation Interviews.
 #### 5.3.1. Diseño de Entrevistas.
@@ -836,9 +928,9 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 
 ![Heurística 1](./assets/c05/h1.png)
 
-- **Severidad:** 3  
-- **Heurística Violada:** Libertad y Control del Usuario  
-- **Descripción:** Al intentar utilizar los botones "Atrás" o "Adelante" del navegador, los usuarios de Rent2Go encuentran páginas de error 404. Esto afecta la experiencia de navegación libre, generando frustración.  
+- **Severidad:** 3
+- **Heurística Violada:** Libertad y Control del Usuario
+- **Descripción:** Al intentar utilizar los botones "Atrás" o "Adelante" del navegador, los usuarios de Rent2Go encuentran páginas de error 404. Esto afecta la experiencia de navegación libre, generando frustración.
 - **Recomendación:** Implementar un sistema de navegación consistente y mantener un historial de navegación claro, especialmente en el catálogo de vehículos, para evitar errores de redirección.
 
 ---
@@ -847,9 +939,9 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 
 ![Heurística 2](./assets/c05/h2.png)
 
-- **Severidad:** 3  
-- **Heurística Violada:** Flexibilidad y Eficiencia de Uso  
-- **Descripción:** La plataforma carece de opciones personalizables para el historial de alquileres, lo que limita la eficiencia en la gestión de información relevante para usuarios frecuentes.  
+- **Severidad:** 3
+- **Heurística Violada:** Flexibilidad y Eficiencia de Uso
+- **Descripción:** La plataforma carece de opciones personalizables para el historial de alquileres, lo que limita la eficiencia en la gestión de información relevante para usuarios frecuentes.
 - **Recomendación:** Incorporar opciones que permitan a los usuarios agregar notas o marcar elementos importantes en el historial de alquileres para un acceso rápido.
 
 ---
@@ -858,9 +950,9 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 
 ![Heurística 3](./assets/c05/h3.png)
 
-- **Severidad:** 2  
-- **Heurística Violada:** Visibilidad del Estado del Sistema  
-- **Descripción:** Los usuarios no reciben confirmaciones visuales inmediatas al realizar acciones importantes.  
+- **Severidad:** 2
+- **Heurística Violada:** Visibilidad del Estado del Sistema
+- **Descripción:** Los usuarios no reciben confirmaciones visuales inmediatas al realizar acciones importantes.
 - **Recomendación:** Implementar mensajes de confirmación visuales claros y rápidos para cada acción importante.
 
 ---
@@ -868,102 +960,4 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 ## 5.4. Video About-the-Product
 
 ![The Product](https://youtu.be/v0GUtgnDzyw)
-
-### 5.2.3. Sprint 4
-#### 5.2.3.1.Sprint Planning 4.
-
-| **Campo**                          | **Detalle**                                                                 |
-|-----------------------------------|------------------------------------------------------------------------------|
-| **Sprint #**                      | Sprint 4                                                                    |
-| **Sprint Planning Background**                                                                                  |
-| **Date**                          | 07/07/25                                                                    |
-| **Time**                          | 10:00                                                                       |
-| **Location**                      | Modalidad Remota por WhatsApp                                           |
-| **Prepared By**                   | Integrantes 4Logicz                                                         |
-| **Attendees (to planning meeting)** | - Chavez Uribe, Ario Joel  <br> - Alvarez Ponce, Carlos Antonio <br> - Aru Acevedo, Yair Christofer <br> - Gonzalez Custodio, Carlos Alberto <br> - Salhuana Lopez, Fernando Jose |
-| **Sprint n - 3 Review Summary**   | El sprint anterior definió el objetivo del proyecto para el desarrollo de este sprint utilizando las historias de usuario. |
-| **Sprint n - 3 Retrospective Summary** | Se ha mejorado el reporte del proyecto actualizando los puntos solicitados a mejorar y se logró a partir de ahí, implementar la primera versión del brackend y terminando el apartado del frontend de nuestro proyecto. |
-| **Sprint Goal & User Stories**    |                                                                              |
-| **Sprint 2 Velocity**             | 6                                                                            |
-| **Sum of Story Points**           | 6                                                                            |
-
-#### 5.2.3.2. Aspect Leaders and Collaborators.
-
-| Username (GitHub) | Nombre                       |
-|-------------------|------------------------------|
-| CarlosGC-LP       | Gonzalez Custodio, Carlos    |
-| Yair360           | Aru Acevedo, Yair Christofer |
-| feg06             | Chavez Uribe,Ario Joel       |
-| zxyfernando       | Salhuana Lopez, Fernando     |
-| bluexdev          | Alvarez Ponce, Carlos        |
-
-#### 5.2.3.3.Sprint Backlog 4.
-
-| User Story ID | Título HU                                       | Tarea ID | Título de la Tarea                   | Descripción de la Tarea                                                            | Estimación (Horas) | Asignado a        | Estado                  |
-|---------------|--------------------------------------------------|----------|--------------------------------------|-------------------------------------------------------------------------------------|---------------------|--------------------|--------------------------|
-| HU19          | Registro interno de usuario                      | T01      | Endpoint de registro                 | Crear controlador y servicio para registrar nuevo usuario                          | 3                   | Carlos Alvarez      | To-do                   |
-|               |                                                  | T02      | Validación de email duplicado        | Agregar lógica de validación si el correo ya existe en base de datos               | 2                   | Carlos Alvarez       | To-do                   |
-| HU20          | Registro interno de inicio de sesión             | T03      | Login backend                        | Implementar login con generación de token JWT                                      | 2                   | Carlos Alvarez      | In-Process              |
-| HU21          | Registro interno de para recuperar contraseña    | T04      | Solicitud de recuperación            | Endpoint para enviar link de recuperación al correo del usuario                    | 3                   | Carlos Alvarez         | To-do                   |
-| HU22          | Publicar vehículo con especificaciones           | T05      | Crear formulario de publicación      | Desarrollar formulario en frontend con validaciones                                | 3                   | Carlos Alvarez        | To-do                   |
-|               |                                                  | T06      | Guardado de datos en backend         | Endpoint para guardar datos del vehículo                                           | 2                   | Ario Chavez      | To-do                   |
-| HU23          | Ver mis vehículos publicados                     | T07      | Crear vista con tabla de vehículos   | Mostrar los vehículos del propietario con botón de editar                          | 2                   | Carlos Alvarez      | To-do                   |
-| HU24          | Ver todas las reservaciones                      | T08      | Endpoint de listado general          | Endpoint para listar todas las reservaciones                                       | 2                   | Carlos Alvarez      | To-do                   |
-| HU25          | Filtrar reservaciones por estado                 | T09      | Agregar filtros por estado           | Añadir select con filtros: Pendiente, Confirmada, Cancelada                        | 1.5                 | Carlos Alvarez      | In-Process                   |
-| HU26          | Buscar vehículos con filtros avanzados           | T10      | Crear filtros en formulario de búsqueda| Implementar filtros por modelo, marca, precio, año, etc.                          | 3                   | Yair Aru      | In-Process                    |
-| HU27          | Ver mis reservaciones por estado                 | T11      | Componente para mis reservaciones    | Mostrar reservaciones del usuario con su respectivo estado                         | 2                   | Carlos Alvarez      | In-Process                   |
-| HU28          | Ver detalle de una reservación                   | T12      | Página de detalle                    | Mostrar todos los datos de una reserva al hacer clic                               | 1.5                 | Fernando Salhuana        | In-Process                   |
-| HU29          | Cancelar reservación                             | T13      | Botón de cancelar reserva            | Permitir al usuario cancelar una reservación si está dentro del plazo              | 2                   | Carlos Gonzalez      | In-Process                   |
-| HU30          | Actualizar estado de reservación                 | T14      | Actualizar estado desde panel        | Permitir cambiar estado a “aceptada”, “rechazada” o “completada”                   | 2                   | Carlos Alvarez      | In-Process                    |
-
-En este sprint se implementaron funcionalidades finales que ayudaron a el despliegue y versión final del backend, funcionando junto al frontend.
-
-#### 5.2.3.4.Development Evidence for Sprint Review.
-
-| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
-|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| [Rent2Go <br> Backend](enlace) | main | b343a7e | initial commit |  | 21/06/2025 |
-
-#### 5.2.3.5.Execution Evidence for Sprint Review.
-
-En esta entrega, el equipo TakeMyCar ha logrado el despliegue del Backend de la Aplicación Web.
-
-
-
-
-
-#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
-
-En el alcance del sprint 4, se ha dado prioridad al desarrollo y despliegue del brackend de la aplicación web.
-
-<div align="center"> <img src="./assets/c05/cloudbackend.jpg" style="margin: 10px 0;" width="70%"/> </div>
-
-#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
-
-Durante este sprint, se ha completado el desarrollo del backend de la aplicación web. Para el despliegue, se utilizaron las siguientes herramientas y servicios:
-
-Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto.
-Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo.
-GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
-
-
-<div align="center"> <img src="./assets/c05/cloudservice.png" style="margin: 10px 0;" width="70%"/> </div>
-
-#### 5.2.3.8.Team Collaboration Insights during Sprint.
-
-El equipo organizó el desarrollo del backend de la aplicación web en ramas para abordar cada sección de forma independiente, optimizando así el mantenimiento y la colaboración durante el sprint. Se siguieron las convenciones estándar de GitFlow, por lo que se crearon ramas de desarrollo y de funcionalidad (bounded-context) según la necesidad. A continuación, se detallan las tareas asignadas a cada miembro del equipo, así como los comentarios del equipo a través de la plataforma GitHub:
-
-| Alumno                         | Actividad                                                                                                                                                                                        |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Chavez Uribe, Ario Joel  | Se encargó de la revisión, la corrección y finalización del informe, aplicando mejora contínua |
-| Aru Acevedo, Yair Christofer  | Se encargó de la asignación de tareas, Revisión y finalización de acpectos técnicos del informe |
-| Gonzalez Custodio, Carlos Alberto | Se encargó de la revisión de la aplicación y revisión del infrome |
-| Salhuana Lopez, Fernando Jose | Se encargó de la revisión, adición del informe y aplicando mejora contínua |
-| Alvarez Ponce, Carlos Antonio | Se encargó de la revisión y el avance del backend, terminando las características necesarias para el funcionamiento de la aplicación |
-
-A continuación se mostrarán los gráficos de insights durante el sprint:
-
-Anexo: Flujo de trabajo en github.
-
-<img src="./assets/c05/gitflow3.png">
 

@@ -3,7 +3,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
     <strong>Ingeniería de Software</strong><br>
     <strong> Aplicaciones Web - ASI0730</strong><br>
-    <strong>Profesor: Oscar Ivan Villafuerte Bazan</strong><br>
+    <strong>Profesor: Villafuerte Bazan, Oscar Ivan</strong><br>
     <br>INFORME DE TRABAJO FINAL
 </p>
 
@@ -69,14 +69,20 @@
             <th>Se añadieron los capitulos I, II, III, IV y V que documentan nuestra startup.</th>
         </tr>
         <tr>
-            <th>V1.5</th>
+            <th>V1.1</th>
             <th>13.05.25</th>
             <th>4Logicz</th>
             <th>Se actualizaron los capitulos I, III, IV y V.</th>
         </tr>
         <tr>
-            <th>V2.0</th>
+            <th>V1.2</th>
             <th>21.06.25</th>
+            <th>4Logicz</th>
+            <th>Se actualizaron los capitulos IV y V.</th>
+        </tr>
+        <tr>
+            <th>V1.3</th>
+            <th>06.07.25</th>
             <th>4Logicz</th>
             <th>Se actualizaron los capitulos IV y V.</th>
         </tr>
@@ -176,7 +182,38 @@ Github: https://github.com/orgs/1ASI0730-2510-4381-G5-RENT2GO/repositories
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](/chapter05.md#5218-team-collaboration-insights-during-sprint)
-
+    - [5.2.2. Sprint 2](/chapter05.md#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](/chapter05.md#5221-sprint-planning-2)
+        - [5.2.2.2. Aspect Leaders and Collaborators](/chapter05.md#5222-aspect-leaders-and-collaborators)
+        - [5.2.2.3. Sprint Backlog 2](/chapter05.md#5223-sprint-backlog-2)
+        - [5.2.2.4. Development Evidence for Sprint Review](/chapter05.md#5224-development-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](/chapter05.md#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](/chapter05.md#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](/chapter05.md#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3](/chapter05.md#5231-sprint-planning-3)
+        - [5.2.3.2. Aspect Leaders and Collaborators](/chapter05.md#5232-aspect-leaders-and-collaborators)
+        - [5.2.3.3. Sprint Backlog 3](/chapter05.md#5233-sprint-backlog-3)
+        - [5.2.3.4. Development Evidence for Sprint Review](/chapter05.md#5234-development-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](/chapter05.md#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](/chapter05.md#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](/chapter05.md#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](/chapter05.md#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](/chapter05.md#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](/chapter05.md#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](/chapter05.md#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](/chapter05.md#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](/chapter05.md#5248-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](/chapter05.md#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](/chapter05.md#531-diseño-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](/chapter05.md#532-registros-de-entrevistas)
+    - [5.3.3. Evaluaciones según heurísticas](/chapter05.md#533-evaluaciones-segun-heurísticas) 
+- [5.4. Video About-the-Product](/chapter05.md#53-video-about-the-product)
 
 # Student Outcome
 
@@ -199,7 +236,7 @@ logro del student outcome.
         <tr>
             <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
             <td>
-                TB1: <br/>
+            TB1: <br/>
                 - Yair Aru: Durante esta entrega se distribuyo las tareas asignadas entre los miembros del equipo y se logró implementar la landing page.<br/>
                 - Carlos Gonzalez: El presente trabajo nos ayudo a contribuir de manera conjunta para lograr un mismo objetivo, logrando satisfactoriamente todas las tareas concernientes a este proyecto.<br/>
                 - Ario Chavez: Durante esta entrega se realizó las partes más importantes del informe como la definición del proyecto. <br/>
@@ -213,12 +250,19 @@ logro del student outcome.
                 - Carlos Alvarez: Durante esta entrega colaboré de manera activa en las reuniones del equipo, ayudando a coordinar la distribución de actividades y asegurando que cada integrante comprendiera su rol. Además, propuse soluciones para optimizar el flujo de trabajo y facilitar la integración de las tareas, lo que permitió culminar el proyecto de manera ordenada y eficiente.<br/>
                 <br/>
             TB2: <br/>
-                - Yair Aru: Durante esta entrega, se distribuyó las tareas para el reporte, Frontend y Backend.
+                - Yair Aru: Durante esta entrega, se distribuyó las tareas para el reporte, Frontend y Backend.<br/>
                 - Carlos Gonzalez: En esta entrega, me organicé con mis compañeros para la elaboración del reporte, frontend y backend. <br/>
                 - Ario Chavez: En la entrega, coordiné con el equipo para la grabación de los videos y la distribución de tareas en el frontend, backend y el reporte. <br/>
                 - Carlos Álvarez: Durante esta entrega colaboré con mis compañeros de equipo para elaboración del Frontend y del Backend<br/>         
-                - Fernando Salhuana: Durante la entrega, se coordinó la elaboración de tareas en el reporte.
-</td>
+                - Fernando Salhuana: Durante la entrega, se coordinó la elaboración de tareas en el reporte.<br/>
+                <br/>
+            TF: <br/>
+                - Yair Aru: Durante esta entrega, se organizó las tareas para el backend y el reporte. <br/>.
+                - Carlos Gonzalez: <br/>
+                - Ario Chavez: En la entrega, coordiné con mi equipo para la elaboración del último sprint. <br/>
+                - Carlos Álvarez: Durante esta entrega colaboré con mis compañeros de equipo para elaboración del Backend<br/>         
+                - Fernando Salhuana: Durante la entrega, se coordinó la elaboración de tareas en el reporte y el video about the product.
+            </td>
             <td>
                 TB1: <br/>
                 - Yair Aru: Se estructuró de manera adecuada todos los puntos asignados para la entrega.<br/>
@@ -239,7 +283,14 @@ logro del student outcome.
                 - Carlos Gónzalez: Se lograron los objetivos de esta entrega de manera oportuna y eficiente.<br/>
                 - Ario Chavez: Se lograron completar las tareas asignadas para esta entrega cumpliendo las metas propuestas como equipo.<br/>
                 - Carlos Álvarez: Se logró una colaboración efectiva en el equipo, Logrando cumplir los objetivos de esta entrega.<br/>
-                - Fernando Salhuana: Se logró realizar las tareas del reporte y de los videos cumpliendo las tareas de esta entrega.
+                - Fernando Salhuana: Se logró realizar las tareas del reporte y de los videos cumpliendo las tareas de esta entrega.<br/>
+                <br/>
+                TF: <br/>
+                - Yair Aru: Durante esta entrega, se corrigió los problemas en el reporte y la totalidad del frontend.
+                - Carlos Gonzalez: <br/>
+                - Ario Chavez: En la entrega, se logró completar las tareas asignadas en este sprint 4. <br/>
+                - Carlos Álvarez: Durante esta entrega, complete la elaboración del backend. <br/>         
+                - Fernando Salhuana: Durante la entrega, se logró completar las tareas del reporte y el video about the team.
             </td>
         </tr>
         <tr>
@@ -259,12 +310,19 @@ logro del student outcome.
                 - Ario Chavez: Logramos realizar las actividades propuestas de forma responsable, esto con el objetivo de mejorar y ampliar nuestros conocimientos académicos.<br/>
                 - Carlos Alvarez: Me encargué de coordinar la planificación de las tareas, asegurando que todos los miembros del equipo tuvieran claridad sobre sus responsabilidades. Además, fomenté la participación inclusiva y el intercambio de ideas para fortalecer la colaboración y el cumplimiento de los objetivos comunes.<br/>
                 <br/>
-                TP: <br/>
+                TB2: <br/>
                 - Yair Aru: Para este outcome, se establecieron las tareas a realizar mediante las reuniones a cada miembro del equipo.<br/>
                 - Carlos Gónzalez: Se designó exitosamente sus tareas a realizar para esta entrega.<br/>
                 - Ario Chavez:  Estableció las tareas a realizar y se designaron correctamente para su desarrollo. <br/>
                 - Fernando Salhuana: Para la entrega, se asignó las tareas a realizar en este sprint. <br/>
-                - Carlos Álvarez: En esta entrega, se estableció las tareas a realizar en el frontend y backend.
+                - Carlos Álvarez: En esta entrega, se estableció las tareas a realizar en el frontend y backend.<br/>
+                <br/>
+                TF: <br/>
+                - Yair Aru: Para este ultimo sprint, se establecieron las metas y tareas a realizar al equipo.<br/>
+                - Carlos Gónzalez: Se estableció las mejoras a realizar en esta entrega. <br/>
+                - Ario Chavez: Se estableció las tareas a realizar en el reporte para el desarrollo del sprint 4. <br/>
+                - Fernando Salhuana: Para la entrega, se asignó las tareas a realizar en el reporte y en el landing page. <br/>
+                - Carlos Álvarez: En esta entrega, se estableció las tareas para completar el desarrollo del backend.  <br/>
             </td>
             <td>
                 TB1: <br/>
@@ -285,7 +343,14 @@ logro del student outcome.
                 - Carlos Gónzalez: Se logró concluir todos los objetivos propuestas para la entrega.<br/>
                 - Ario Chavez: Se completaron las tareas asignadas en la planificación. <br/>
                 - Fernando Salhuana: Se cumplió con el objetivo de este sprint. <br/>
-                - Carlos Álvarez: Se cumplió con las tareas asignadas y las modificaciones planteadas para la mejora del proyecto.
+                - Carlos Álvarez: Se cumplió con las tareas asignadas y las modificaciones planteadas para la mejora del proyecto.<br/>
+                <br/>
+                TF: <br/>
+                - Yair Aru: Se lograron cumplir las metas establecidas al equipo. <br/>
+                - Carlos Gónzalez: Se logró concluir las tareas asignadas en el sprint 4.<br/>
+                - Ario Chavez: Se completaron las tareas establecidas en el sprint 4 en el reporte. <br/>
+                - Fernando Salhuana: Se cumplió con las tareas asignadas en el reporte y landing page. <br/>
+                - Carlos Álvarez: Se cumplió las tareas asignadas en el backend y el frontend.
             </td>
         </tr>
     </tbody>

@@ -640,7 +640,7 @@ Visualización del nuevo auto en la Galeria:
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
-En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
+En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web. Este es el link del despliegue: https://rent2go-g5.netlify.app/login
 
 <div align="center"> <img src="./assets/c05/netlify.png" style="margin: 10px 0;" width="70%"/> </div>
 

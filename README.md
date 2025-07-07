@@ -959,5 +959,5 @@ Link de la entrevista: [Entrevista_Propietario](https://upcedupe-my.sharepoint.c
 
 ## 5.4. Video About-the-Product
 
-![The Product](https://youtu.be/v0GUtgnDzyw)
+[The Product](https://youtu.be/v0GUtgnDzyw)
 

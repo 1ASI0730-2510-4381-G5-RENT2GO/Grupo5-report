@@ -828,7 +828,7 @@ En esta sección definiremos los términos y conceptos que utilizaremos en nuest
   Contrato en el cual dos partes se obligan de manera recíproca y por un tiempo determinado la cesión de un bien o servicio quedando obligada la parte que aprovecha la posesión a pagar un precio cierto.​
 - Peer to Peer
   Plataforma en la que dos personas interactúan directamente entre sí, sin la intermediación de un tercero.
-=======
+
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
@@ -919,4 +919,4 @@ Utilizamos la escala de Fibonacci para la estimación de los Story Points.
 | HU28             | Ver detalle de una reservación                | **Como** usuario, **Quiero** ver detalles de una reservación específica **Para** consultar fechas y vehículo.                                    | 2                        |
 | HU29             | Cancelar reservación                          | **Como** cliente, **Quiero** cancelar una reservación **Para** evitar el cobro si ya no la necesito.                                            | 3                        |
 | HU30             | Actualizar estado de reservación              | **Como** propietario, **Quiero** actualizar el estado de una reserva (aceptar, rechazar, marcar como completada) **Para** gestionar el alquiler. | 3                        |
->>>>>>> origin/feature/chapter-3
+
